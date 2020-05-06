@@ -1,0 +1,151 @@
+	body {
+		margin: 0;
+		text-align: center;
+		font-family: 'Jost', sans-serif;
+		font-size: 150%; 
+		color: maroon;
+	}
+	
+	h1 {
+		font-family: 'Delius Swash Caps', cursive;
+		font-size: 312.5%;
+		margin: 40px auto 50px auto;
+	}
+	
+	h2 {
+		font-family: 'Sacramento', cursive;
+		font-size: 275%;
+		color: darkslategrey;
+	}
+	
+	h3 {
+		font-family: 'Jost', sans-serif;
+		font-size: 175%;
+		color: indianred;
+	}
+	
+	.first-section {
+		background-color: mistyrose;
+		position: relative;
+		padding-top: 70px;
+		padding-bottom: 50px;
+	}
+	
+	.second-section {
+		background-color: seashell;
+		position: relative;
+		padding-top: 20px;
+		padding-bottom: 200px;
+	}
+	
+	.circular {
+		border-radius: 150px;
+		height: 300px;
+		background: indianred;
+		padding: 7px;
+		border-radius: 200px;
+		
+	}
+	
+	.circle {
+		border-radius: 150px;
+		height: 100px;
+		position: absolute;
+		padding: 5px;
+		left: 100px;
+		top: 50px;
+		background: indianred;
+	}
+	
+	.header {
+		text-align: right;
+		padding: 25px;
+	}
+	
+	.header a {
+		color: black;
+		text-align:right;
+		padding: 12px;
+		margin: 50px 0 auto 0;
+		text-decoration: none;
+		font-size: 100%;
+	}
+	
+	#profil {
+		margin: 20px;
+		text-align: center;
+	}
+	
+	#pendidikan {
+		margin: 40px;
+		text-align: justify;
+	}
+	
+	#fotoedu {
+		margin-right: 50px;
+		background: indianred;
+		padding: 7px;
+		border-radius: 200px;
+		display:block;
+	}
+	
+	#organisasi {
+		margin: 40px;
+		text-align: justify;
+		
+	}
+	
+	#fotoOrg {
+		margin-left: 50px;
+		background: indianred;
+		padding: 7px;
+		border-radius: 200px;
+		display:block;
+	}
+	
+	#skill {
+		margin: 40px;
+		text-align: justify;
+	}
+	
+	#fotoskill{
+		margin-right: 80px;
+		background: indianred;
+		padding: 7px;
+		border-radius: 200px;
+		display:block;
+	}
+	
+	.footer {
+		overflow: hidden;
+		background-color: mistyrose;
+		padding: 20px 10px;
+	}
+	
+	.link1 {
+		color: black;
+		text-align: center;
+		padding: 12px;
+		text-decoration: none;
+		font-size: 100%;
+	}
+	
+	.link2 {
+		color: maroon;
+		text-align: center;
+		padding: 20px;
+		text-decoration: none;
+		font-size: 125%;
+	}
+	
+	
+	hr {
+		border-style: none;
+		border-top-style: dotted;
+		border-color: rosybrown;
+		border-width: 8px;
+		width: 8%;
+	}
+	
+		
+		
